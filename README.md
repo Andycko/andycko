@@ -12,7 +12,7 @@ I'm a backend developer with interest in systems and DevOps. If not behind the w
 - 🔭 I’m currently working on building my super secret bussiness idea that will definitely hit a hole in the market.
 - 💪 I'm reasonably good at Node.js, TypeScript, Adonis.js, PostgreSQL
 - 🌱 I’m currently learning **Languages**: Rust, **Frameworks**: Django, **Infrastructure**: Azure, Terrraform, **Architecture**: Microservices, Event-driven
-- 👯 I’m looking to collaborate on open source projects, but I don't really have time. That shouldn't discourage you from contacting me though 😎.
+- 👯 I’m looking to collaborate on open source projects. Get in touch if I could be of help 😎.
 - 💬 Ask me about motorbikes, or camping.
 - 😄 Pronouns: He/Him
 
