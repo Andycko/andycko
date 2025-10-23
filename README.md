@@ -33,7 +33,7 @@ I'm a backend developer with interest in systems and DevOps. If not behind the w
 
 #### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Logging for beginners &lpar;in Python&rpar; - How and Why](https://forem.com/andycko/logging-for-beginers-in-python-how-and-why-3bna)
-- [The mysteries of GraphQL clients&#39; cache - The Showdown](https://forem.com/andycko/the-mysteries-of-graphql-clients-cache-the-showdown-4211)
-- [The mysteries of GraphQL clients&#39; cache - The Introduction](https://forem.com/andycko/the-mysteries-of-graphql-clients-cache-the-introduction-3g13)
+- [Logging for beginners &lpar;in Python&rpar; - How and Why](https://dev.to/andycko/logging-for-beginers-in-python-how-and-why-3bna)
+- [The mysteries of GraphQL clients&#39; cache - The Showdown](https://dev.to/andycko/the-mysteries-of-graphql-clients-cache-the-showdown-4211)
+- [The mysteries of GraphQL clients&#39; cache - The Introduction](https://dev.to/andycko/the-mysteries-of-graphql-clients-cache-the-introduction-3g13)
 <!-- BLOG-POST-LIST:END -->
